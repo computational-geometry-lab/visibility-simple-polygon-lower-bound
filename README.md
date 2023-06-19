@@ -1,4 +1,4 @@
-# simple-polygon-lower-bound
+# visibility-simple-polygon-lower-bound
 This program is intend to verify that all of the visibilities are correct in limited visibility simple polygon.
 
 How to execute:
