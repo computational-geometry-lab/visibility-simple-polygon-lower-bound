@@ -7,7 +7,7 @@
 #define EPSILON 1.77635683940025e-15
 using namespace std;
 string guards("ABCDEFGH");
-double radius(5.0);
+double radius(1.0);
 void checkArray(string points[], int guardIndex[], double x[], double y[], int size, double r);
 bool SeeEachOther(string points[], double x[], double y[], int size, double r, int AIndex, int BIndex);
 bool ASeesB(string points[], double x[], double y[], int size, double r, int AIndex, int BIndex);
